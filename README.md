@@ -1,5 +1,3 @@
-Aqui vai um **README.md** completo e direto, em português simples, sem travessão e sem hífen na escrita.
-
 # Digitador
 
 Simulador de digitação que lê um texto da interface e simula teclas no computador.
